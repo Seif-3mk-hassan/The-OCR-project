@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+easyocr
+pypdfium2
+Pillow
+numpy
+transformers
+sentencepiece
+pandas
+openpyxl
+img2table
